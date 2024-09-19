@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "as",
+      "title": "Сделать ДЗ",
+      "completed": false,
+      "date": "19.09.2024",
+      "time": "19:00"
+    },
+    {
+      "id": "hd",
+      "title": "Купить продукты",
+      "completed": true,
+      "date": "12.09.2024",
+      "time": "17:00"
+    },
+    {
+      "id": "tr",
+      "title": "Сдать проект",
+      "completed": false,
+      "date": "18.09.2024",
+      "time": "09:00"
+    }
+  ]
+}
