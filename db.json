@@ -1,25 +1,25 @@
 {
   "todos": [
     {
-      "id": "as",
-      "title": "Сделать ДЗ",
+      "title": "HELLO",
       "completed": false,
-      "date": "19.09.2024",
-      "time": "19:00"
+      "date": "0.8.2024",
+      "time": "15:52",
+      "id": 7
     },
     {
-      "id": "hd",
-      "title": "Купить продукты",
-      "completed": true,
-      "date": "12.09.2024",
-      "time": "17:00"
+      "title": "How are you",
+      "completed": false,
+      "date": "0.8.2024",
+      "time": "15:52",
+      "id": 8
     },
     {
-      "id": "tr",
-      "title": "Сдать проект",
+      "title": "dvsdvsdv",
       "completed": false,
-      "date": "18.09.2024",
-      "time": "09:00"
+      "date": "0.8.2024",
+      "time": "16:16",
+      "id": 9
     }
   ]
 }
