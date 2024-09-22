@@ -1,13 +1,6 @@
 {
   "todos": [
     {
-      "title": "HELLO",
-      "completed": false,
-      "date": "0.8.2024",
-      "time": "15:52",
-      "id": 7
-    },
-    {
       "title": "How are you",
       "completed": false,
       "date": "0.8.2024",
